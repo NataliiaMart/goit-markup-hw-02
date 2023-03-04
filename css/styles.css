@@ -38,7 +38,7 @@ body {
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
+    color: #2E2F42
 }
 
 .link {
@@ -63,7 +63,7 @@ body {
 
 .header-list :hover,
 .header-list :focus {
-    color: #4D5AE5;
+    color: #404BBF;
 }
 
 .header-mail {
