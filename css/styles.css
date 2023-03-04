@@ -24,9 +24,7 @@ body {
     list-style: none;
 }
 
-.header-logo {}
-
-.web {
+.logo-web {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
@@ -35,7 +33,7 @@ body {
     align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color: var(--color-iris);
 }
 
 .logo-studio {
@@ -48,6 +46,9 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2E2F42;
+}
+
+
 }
 
 
