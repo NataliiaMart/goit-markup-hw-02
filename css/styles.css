@@ -294,31 +294,9 @@ address {
 
 .bank-app-title,
 
-.bank-app-title,
-.meditaion-app-title,
-.taxi-service-title,
-.screen-illustrations-title,
-.online-courses-title,
-.instagram-stories-title,
-.organic-food-title,
-.fresh-coffee-title {
-    font-family: "Roboto", sans-serif;
-    font-style: medium;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
 
-.bank-app-text,
-.meditaion-app-text,
-.taxi-service-text,
-.screen-illustrations-text,
-.online-courses-text,
-.instagram-stories-text,
-.organic-food-text,
-.fresh-coffee-text {
+
+.section-title{
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -327,8 +305,7 @@ address {
     letter-spacing: 0.02em;
     color: #434455;
 }
-
-.cashless-payment {
+.section-text{
     font-family: "Roboto", sans-serif;
     font-style: medium;
     font-weight: 500;
