@@ -1,4 +1,4 @@
-.body {
+body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
 }
@@ -23,6 +23,8 @@
 .list {
     list-style: none;
 }
+
+.header-logo {}
 
 .web {
     font-family: 'Raleway';
