@@ -20,7 +20,7 @@ body {
 /*--------HERO-------*/
 
 .logo-web {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -30,7 +30,7 @@ body {
 }
 
 .logo-studio {
-    font-family: 'Raleway';
+    font-family: 'Raleway',sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
