@@ -55,11 +55,10 @@ body {
 
 .header-link {
     font-style: normal;
-    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--color-navy-blue);
+    color:var(--color-navy-blue-modal)
 }
 
 .header-list :hover,
@@ -88,6 +87,11 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    
+}
+.header-tel :hover,
+.header-tel :focus {
+    color: #404BBF;
 }
 
 /*-------HERO--------*/
