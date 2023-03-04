@@ -13,7 +13,6 @@ body {
     --color-light-slate: #8E8F99;
     --color-cornflower: #E7E9FC;
     --color-cloud: #F4F4FD;
-    --color-navy-blue-modal: #2E2F42;
     --color-grey: #2E2F42;
 }
 
@@ -59,7 +58,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:var(--color-navy-blue-modal)
+    color: var(--color-navy-blue);
 }
 
 .header-list :hover,
