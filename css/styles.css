@@ -257,7 +257,7 @@ address {
 
 
 /*------PORTFOLIO----*/
-
+/*-----FILTERS----*/
 
 .filters-btn {
     font-family: inherit;
@@ -284,7 +284,7 @@ address {
     color: #FFFFFF
 }
 
-
+/*-----PROJECT-----*/
 
 .progect {}
 
@@ -292,7 +292,8 @@ address {
 
 .progect-img {}
 
-.progect-title {
+.bank-app-title {
+    font-family: "Roboto", sans-serif;
     font-style: medium;
     font-weight: 500;
     font-size: 20px;
@@ -301,7 +302,47 @@ address {
     color: #2E2F42;
 }
 
-.progect-text {
+.bank-app-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.cashless-payment-title {
+    font-family: "Roboto", sans-serif;
+    font-style: medium;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.cashless-payment-text {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.meditaion-app-title {
+    font-family: "Roboto", sans-serif;
+    font-style: medium;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.meditaion-app-text {
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
