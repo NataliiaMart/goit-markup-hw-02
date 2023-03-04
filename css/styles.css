@@ -62,8 +62,6 @@ body {
     color: var(--color-navy-blue);
 }
 
-
-
 .header-list :hover,
 .header-list :focus {
     color: #404BBF;
@@ -119,7 +117,17 @@ address {
     color: #FFFFFF;
 }
 
-.hero-btn {}
+.hero-btn {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background: #4D5AE5;
+    cursor: pointer
+}
 
 .hero-btn :hover,
 .hero-btn :focus {
