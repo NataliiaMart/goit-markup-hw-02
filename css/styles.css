@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto' sans-serif;
     color: #434455;
 }
 
@@ -16,21 +16,13 @@ body {
     --color-grey: #2E2F42;
 }
 
-.link {
-    text-decoration: none;
-}
-
-.list {
-    list-style: none;
-}
+/*--------HERO-------*/
 
 .logo-web {
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--color-iris);
@@ -48,10 +40,17 @@ body {
     color: #2E2F42;
 }
 
+.link {
+    text-decoration: none;
+}
 
+.list {
+    list-style: none;
 }
 
 
+
+/*-----ADDERESS-----*/
 
 .header-link {
     font-weight: 500;
@@ -89,7 +88,7 @@ body {
     color: #434455;
 }
 
-
+/*-------HERO--------*/
 
 .hero {
     background-color: #2E2F42;
@@ -137,12 +136,11 @@ body {
 
 
 
-
+/*------OUR WORK-----*/
 
 .our-work {}
 
 .our-work-title {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -150,7 +148,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2E2F42;
+    color: var(--color-navy-blue);
 }
 
 .our-work-item {}
