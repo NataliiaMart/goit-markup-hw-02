@@ -293,7 +293,8 @@ address {
 .progect-img {}
 
 .bank-app-title,
-.cashless-payment-title,
+
+.bank-app-title,
 .meditaion-app-title,
 .taxi-service-title,
 .screen-illustrations-title,
@@ -311,7 +312,6 @@ address {
 }
 
 .bank-app-text,
-.cashless-payment-text,
 .meditaion-app-text,
 .taxi-service-text,
 .screen-illustrations-text,
@@ -319,10 +319,21 @@ address {
 .instagram-stories-text,
 .organic-food-text,
 .fresh-coffee-text {
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.cashless-payment {
+    font-family: "Roboto", sans-serif;
+    font-style: medium;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
