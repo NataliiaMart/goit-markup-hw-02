@@ -206,7 +206,7 @@ address {
     color: #434455;
 }
 
-
+/*------FOOTER--------*/
 
 .footer-text {
     font-style: normal;
@@ -215,7 +215,7 @@ address {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #E7E9FC;
-    background-color: #2E2F42;
+    background-color: var(--color-navy-blue);
 }
 
 
