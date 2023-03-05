@@ -306,15 +306,7 @@ address {
     color: #2E2F42;
 }
 
-.bank-app-text,
-.cashless-payment-text,
-.meditaion-app-text,
-.taxi-service-text,
-.screen-illustrations-text,
-.online-courses-text,
-.instagram-stories-text,
-.organic-food-text,
-.fresh-coffee-text {
+.text {
     font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
