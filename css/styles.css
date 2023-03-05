@@ -296,7 +296,7 @@ address {
 
 
 
-.bank-app-title {
+.title {
     font-family: "Roboto", sans-serif;
     font-style: medium;
     font-weight: 500;
@@ -322,14 +322,4 @@ address {
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.cashless-payment title {
-    font-family: inherit;
-    font-style: inherit;
-    font-weight: inherit;
-    font-size: inherit;
-    line-height: inherit;
-    letter-spacing: inherit;
-    color: #2E2F42;
 }
