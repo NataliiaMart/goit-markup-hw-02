@@ -292,7 +292,7 @@ address {
 
 .progect-img {}
 
-.bank-app-title,
+
 
 
 
@@ -324,12 +324,12 @@ address {
     color: #434455;
 }
 
-.title {
-    font-family: "Roboto", sans-serif;
-    font-style: medium;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
+.cashless-payment title {
+    font-family: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    letter-spacing: inherit;
     color: #2E2F42;
 }
