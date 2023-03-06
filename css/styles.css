@@ -61,8 +61,11 @@ body {
     color: var(--color-grey);
 }
 
-.pages:hover,
-.pages:focus {
+.pages:hover{
+color: #404BBF;
+}
+
+.pages:focus{
     color: #404BBF;
 }
 
