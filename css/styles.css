@@ -77,7 +77,7 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    --color-slate: #434455;
+    color: var(#434455)
 }
 
 
@@ -88,11 +88,11 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    --color-slate: #434455;
+    color: #434455;
 }
 
-.address-link :hover,
-.address-link :focus {
+address :hover,
+address :focus {
     color: #404BBF;
 }
 
