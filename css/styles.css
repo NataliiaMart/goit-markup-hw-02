@@ -73,7 +73,7 @@ address {
     font-style: normal;
 }
 
-.header-mail {
+.header-item {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -82,20 +82,8 @@ address {
     color: var(---color-slate);
 }
 
-
-
-.header-tel {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: var(---color-slate);
-}
-
-.header-address :hover,
-.header-address :focus,
-.header-address:active {
+.header-item:hover,
+.hheader-item:focus {
     color: #404BBF;
 }
 
