@@ -92,8 +92,8 @@ address {
 
 }
 
-.address :hover,
-:focus {
+.address-item :hover,
+.address-item :focus {
     color: #404BBF;
 }
 
