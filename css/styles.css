@@ -62,7 +62,7 @@ body {
 }
 
 .pages:hover,
-.pages :focus {
+.pages:focus {
     color: #404BBF;
 }
 
