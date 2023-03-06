@@ -52,7 +52,7 @@ body {
 
 /*-----ADDERESS-----*/
 
-.header-list {
+.pages {
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -61,8 +61,8 @@ body {
     color: var(--color-navy-blue);
 }
 
-.header-list :hover,
-.header-list :focus {
+.pages :hover,
+.pages :focus {
     color: #404BBF;
 }
 
@@ -78,6 +78,7 @@ address {
     letter-spacing: 0.02em;
     color: var(---color-slate);
 }
+
 
 
 .header-tel {
