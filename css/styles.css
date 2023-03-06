@@ -58,11 +58,10 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--color-navy-blue);
 }
 
-.pages :hover,
-.pages :focus {
+.header-list :hover,
+.header-list :focus {
     color: #404BBF;
 }
 
