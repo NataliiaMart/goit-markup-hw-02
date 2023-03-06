@@ -3,11 +3,10 @@
     --color-ocean: #404BBF;
     --color-navy-blue: #2E2F42;
     --color-green: #31D0AA;
-    --color-slate: #434455;
+    --primary-text-color: #434455;
     --color-light-slate: #8E8F99;
     --color-cornflower: #E7E9FC;
     --color-cloud: #F4F4FD;
-    --navy-blue-modal: #2E2F42;
     --color-grey: #2E2F42;
 }
 
@@ -59,7 +58,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(#2E2F42)
+    color: var(--primary-text-color);
 }
 
 .header-list :hover,
@@ -77,7 +76,7 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(#434455)
+    color: var(--primary-text-color);
 }
 
 
@@ -88,11 +87,11 @@ address {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: var(--primary-text-color);
 }
 
-address :hover,
-address :focus {
+.header-item :hover,
+.header-item :focus {
     color: #404BBF;
 }
 
