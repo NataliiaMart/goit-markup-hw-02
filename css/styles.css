@@ -80,10 +80,7 @@ address {
     color: #434455;
 }
 
-.header-address-mail :hover,
-.header-address-mail :focus {
-    color: #404BBF;
-}
+
 
 .header-tel {
     font-style: normal;
@@ -95,8 +92,8 @@ address {
 
 }
 
-.header-tel :hover,
-.header-tel :focus {
+.address :hover,
+:focus {
     color: #404BBF;
 }
 
